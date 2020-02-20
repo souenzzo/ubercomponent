@@ -7,7 +7,7 @@ Bridge between [ubergraph](https://github.com/Engelberg/ubergraph) and [componen
 Add to your `deps.edn`
 ```clojure
 br.com.souenzzo/ubercomponent {:git/url "https://github.com/souenzzo/ubercomponent.git"
-                               :sha     "..."}
+                               :sha     "3099a2acba6a3423c3b1c53e2cc4e6c882545ed3"}
 ```
 
 ## Example
